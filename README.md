@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**RAHUL14KUMAR/RAHUL14KUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently exploring different technology-AWS , WEB3
 - 🌱 I’m usally align with MERN stack to develop a software
