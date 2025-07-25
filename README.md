@@ -1,7 +1,37 @@
-### Hi there 👋
+# Hi, I'm Rahul Kumar 👋
 
-MY NAME IS RAHUL KUMAR AND I AM FULL STACK DEVELOPER 
+I'm a passionate **developer** with a love for building scalable and impactful solutions.  
+My expertise spans across modern web frameworks, cloud-native technologies, and backend engineering.
 
-- 🔭 I’m currently exploring different technology-AWS , WEB3
-- 🌱 I’m usally align with MERN stack to develop a software
-- Technology that i learn so far is HTML,CSS, JAVASCRIPT,TYPESCRIPT,REACT JS,NEXT JS,NODE JS,EXPRESS JS,MONGO DB,RESTAPI,AWS SERVERLESS,CLOUDINARY
+---
+
+## 🚀 Skills & Technologies
+
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Spring Boot, GraphQL
+- **DevOps / Cloud:** Docker, Kafka, Redis
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **2x MLH Hackathon Winner** (including Postman Track)
+- 🏅 **National Semi-Finalist** at Tata Imagination Challenge
+
+---
+
+## 📈 What I'm Working On
+
+- Crafting modern web apps with React & Next.js
+- Architecting resilient backend systems using Spring Boot & GraphQL
+- Exploring distributed systems with Kafka and Redis
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rahul-kumar-216872227/)
+
+---
+
+<!-- Optionally add a quote, fun fact, or interests below! -->
