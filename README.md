@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&width=435&lines=Hi+I'm+Rahul+Kumar;Developer+%7C+React+%7C+Spring+Boot+%7C+Kafka;Hackathon+Winner+%7C+Startup+Experience)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&width=435&lines=Hi+I'm+Rahul+Kumar;Developer+%7C+React+%7C+Spring+Boot+%7C;Hackathon+Winner+%7C+StartupExperience)
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
